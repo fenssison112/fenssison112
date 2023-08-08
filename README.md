@@ -1,9 +1,9 @@
-<div align="left">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 100%" />
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
   
 </div>  
 
-### <div align="center">ПРИВЕТ, МЕНЯ ЗОВУТ СЕРГЕЙ </div>  
+### <div align="left">ПРИВЕТ, МЕНЯ ЗОВУТ СЕРГЕЙ </div>  
   
 Привет, меня зовут Сергей. Недавно начал путь программирования, попробовал разные языки, но больше всего мне подошел Python. Мое увлечение - компьютерное зрение, я нацелен на работу с изображениями. Создал пару проектов, включая распознавание лиц через OpenCV и машинного обучения. Также увлекаюсь программированием на Arduino, создавал небольшие устройства и экспериментировал с электроникой.
 
