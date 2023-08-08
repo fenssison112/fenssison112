@@ -17,7 +17,7 @@
 ## Мои навыки 
 
 
-</td><td valign="left" width="33%">
+</td><td valign="top" width="33%">
 
 ### Backend  
 
