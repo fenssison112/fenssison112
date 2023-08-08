@@ -15,7 +15,7 @@
 
 
 ## Мои навыки 
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="left" width="33%">
 
 
 
