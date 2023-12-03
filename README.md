@@ -23,6 +23,7 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-090909?style=for-the-badge&logo=tensorflow&logoColor=F88C00)
 ![Arduino](https://img.shields.io/badge/-Arduino-090909?style=for-the-badge&logo=arduino&logoColor=00979D)
 ![Blender](https://img.shields.io/badge/-Blender-090909?style=for-the-badge&logo=blender&logoColor=F5792A)
+![YOLO](https://img.shields.io/badge/-YOLO-090909?style=for-the-badge&logo=yolo&logoColor=darkred)
 
 
 
